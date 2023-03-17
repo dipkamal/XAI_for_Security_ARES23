@@ -1,0 +1,2 @@
+,Explainable method Name,Sparsity,Complexity,Faithfulness,Monotonicity,MaxSensitivity,LocalLipschitzEstimate,Relative Output Stability,ModelParameterRadomisation
+0,GradientShap,0.8933908584728452,1.2561051825517655,0.734740503114076,0.02040816326530612,0.3649457778249468,0.6872408455470687,945120.3389106352,0.9996082586777122
